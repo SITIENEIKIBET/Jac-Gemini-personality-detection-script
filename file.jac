@@ -3,7 +3,7 @@ import from byllm { Model }
 # Initialize Gemini model with API key directly
 glob llm = Model(
     model_name="gemini/gemini-2.0-flash",
-    api_key="AIzaSyDxjhCQvL9M7uIoLCLDV4FI-NRll66hZn0"
+    api_key="*****************************************"
 );
 
 enum Personality {
